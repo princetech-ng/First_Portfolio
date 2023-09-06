@@ -1,0 +1,17 @@
+@import url(./All\ CSS/header.css);
+@import url(./All\ CSS/home.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: #1f242d;
+    color: #fff;
+}
+
+
+
